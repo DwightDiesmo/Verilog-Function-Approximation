@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CosineFunctionApproximation.srcs/sources_1/new/FixedPointAdder.v" \
+"../../../../CosineFunctionApproximation.srcs/sources_1/new/FixedPointMult.v" \
+"../../../../CosineFunctionApproximation.srcs/sources_1/new/LUT.v" \
+"../../../../CosineFunctionApproximation.srcs/sources_1/new/SegmentDecoder.v" \
+"../../../../CosineFunctionApproximation.srcs/sources_1/new/PieceWiseLinearApproximation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

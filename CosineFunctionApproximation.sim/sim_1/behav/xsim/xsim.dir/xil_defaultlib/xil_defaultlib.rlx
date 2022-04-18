@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sim_1/new/tb_PLA.v,1634162011,verilog,,,,tb_PLA,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/FixedPointAdder.v,1634158379,verilog,,C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/FixedPointMult.v,,FixedPointAdder,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/FixedPointMult.v,1634092289,verilog,,C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/LUT.v,,FixedPointMult,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/LUT.v,1634156460,verilog,,C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/PieceWiseLinearApproximation.v,,LUT,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/PieceWiseLinearApproximation.v,1634156471,verilog,,C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/SegmentDecoder.v,,PieceWiseLinearApproximation,,,,,,,,
+C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sources_1/new/SegmentDecoder.v,1634156347,verilog,,C:/Users/dwigh/Xilinx/CosineFunctionApproximation/CosineFunctionApproximation.srcs/sim_1/new/tb_PLA.v,,SegmentDecoder,,,,,,,,
